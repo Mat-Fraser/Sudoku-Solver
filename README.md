@@ -1,3 +1,3 @@
 # Sudoku-Solver
 
-solversudoku.netlify.app
+[netlify](https://solversudoku.netlify.app/).
